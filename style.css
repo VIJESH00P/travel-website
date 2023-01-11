@@ -1,0 +1,68 @@
+.div1{
+    background-color: white;
+    height: 106px;
+    width: 100%;
+    position: sticky;
+    top: 0;
+}
+.img1{
+    height: 60px;
+    display: inline-block;
+    margin-left:200px;
+    margin-top: 30px;
+    size: 100px;
+}
+.img2{
+    height: 700px;
+    width: 100%;
+    
+    background-size: cover;
+}
+.subdiv1{
+    height: 450px;
+    width: 400px;
+    
+    margin-left: 300px;
+    padding-top: 50px;
+}
+.div3{
+    height: 110px;
+    width: 100%;
+    background-color: white;
+}
+.div4{
+    background-color: rgb(255, 255, 255);
+    background-image: url(https://www.wanderingearl.com/wp-content/uploads/2018/10/Wandering-Earl-mapbg-3.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding: 0px;
+    margin-bottom: 35px;
+    margin-top: 15px;
+    border-width: 2px 0px;
+    border-color: rgb(30, 54, 92);
+    border-style: solid;
+    background-size: cover;
+}
+.div5{
+    height: 800px;
+    width: 100%;
+    background-color: white;
+}
+.sub1{
+    background-color: rgba(24,24,24,0.8);
+    height: 500px;
+    width: 600px;
+    margin-left: 100px;
+    
+}
+.div2{
+    padding-top: 120px;
+    opacity: ;
+}
+.immg:hover{
+    transform: scale(1.2);
+    z-index: 2;
+}
+.immg{
+    transition: 1s;
+}
